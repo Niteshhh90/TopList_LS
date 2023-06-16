@@ -1,0 +1,33 @@
+{
+  "id": "2dcb2ca8-8b9d-4b93-a03f-235b33dd1b32",
+  "name": "TopList APH",
+  "publisher": "Think Tribe Technologies LLC",
+  "version": "18.3.0.0",
+  "brief": "",
+  "description": "TopList Apparel",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{"id": "5ecfc871-5d82-43f1-9c54-59685e82318d", "name": "LS Central", "publisher": "LS Retail", "version": "18.2.0.0"},
+    {"id": "e6dacf4f-a596-42c2-85ba-8d1e23351c1b", "name": "Void Line Changes", "publisher": "Think Tribe Technologies LLC", "version": "18.3.0.0"},
+    {"id": "726b7b8c-e774-4614-beba-c0901ba01e65", "name": "DiscountChanges", "publisher": "Think Tribe Technologies LLC", "version": "18.3.0.0"}],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.3.0.0",
+  "idRanges": [
+    {
+      "from": 52000,
+      "to": 52999
+    },
+    {
+      "from": 57000,
+      "to": 57099
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://apparelhospitality.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0",
+  "target":"OnPrem"
+}
